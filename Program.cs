@@ -129,6 +129,7 @@ namespace Hospital_CSharp
             }
 
         //Permite o usuario cadastrar os novos dados do paciente escolhido.
+        //Obs: o 'pos' é uma variavel que guarda a posição do paciente na fila.
             Console.Write("Novo nome: ");
             fila[pos].Nome = Console.ReadLine();
             Console.Write("Nova idade: ");
