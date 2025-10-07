@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teodo\\OneDrive\\\u00C1rea de Trabalho\\hospital csharp\\Hospital_CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6911B62B-F78C-4A8B-A92B-2CBD5FE14A83}|Hospital_CSharp.csproj|c:\\users\\teodo\\onedrive\\\u00E1rea de trabalho\\hospital csharp\\hospital_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6911B62B-F78C-4A8B-A92B-2CBD5FE14A83}|Hospital_CSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6911B62B-F78C-4A8B-A92B-2CBD5FE14A83}|Hospital_CSharp.csproj|c:\\users\\teodo\\onedrive\\\u00E1rea de trabalho\\hospital csharp\\hospital_csharp\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6911B62B-F78C-4A8B-A92B-2CBD5FE14A83}|Hospital_CSharp.csproj|solutionrelative:paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\\u00C1rea de Trabalho\\hospital csharp\\Hospital_CSharp\\Paciente.cs",
+              "RelativeDocumentMoniker": "Paciente.cs",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\\u00C1rea de Trabalho\\hospital csharp\\Hospital_CSharp\\Paciente.cs",
+              "RelativeToolTip": "Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:14:25.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\teodo\\OneDrive\\\u00C1rea de Trabalho\\hospital csharp\\Hospital_CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\teodo\\OneDrive\\\u00C1rea de Trabalho\\hospital csharp\\Hospital_CSharp\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAIwDsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:13:52.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
